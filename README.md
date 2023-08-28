@@ -1,3 +1,4 @@
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207..](https://blog-api.unity.com/sites/default/files/2021-10/DP_brand_logo_wordmark.gif)">
 <h1 align="center">Hi 👋, I'm Yankı Ateş</h1>
 <h3 align="center">A passionate game designer & student</h3>
 
