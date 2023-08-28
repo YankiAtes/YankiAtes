@@ -1,7 +1,9 @@
-<h1 align="center">Welcome 👋, I'm Yankı Ateş</h1>
+<h1 align="center">Hi 👋, I'm Yankı Ateş</h1>
 <h3 align="center">A passionate game designer & student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yankiates&label=Profile%20views&color=0e75b6&style=flat" alt="yankiates" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yankiates" alt="yankiates" /></a> </p>
 
 - 🔭 I’m currently working on **Builder Defender Game**
 
@@ -20,3 +22,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yankiates&show_icons=true&locale=en&layout=compact" alt="yankiates" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yankiates&show_icons=true&locale=en" alt="yankiates" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yankiates&" alt="yankiates" /></p>
