@@ -2,6 +2,9 @@
 <h3 align="center">A passionate game designer & student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yankiates&label=Profile%20views&color=0e75b6&style=flat" alt="yankiates" /> </p>
+
+
+
 - 🎮 See and play my all games: **[My Itch.io Page](https://yankiates.itch.io/)**
 - ✔ Play the favorite game I made: **[Prefiko](https://yankiates.itch.io/prefiko)**
 - 🔥 See the best website I made: **[Çekmeköy Sınav Haber](https://yankiates.github.io/sinavhaber/)**
