@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on: **[Builder Defender Game](https://github.com/YankiAtes/BuilderDefenderGame)** 
 - 🌱 I’m currently learning **Unity Game Engine and C#**
   
-- 🎮 See and play my all games: **https://yankiates.itch.io/**
+- 🎮 See and play my all games: **[My Itch.io Page](https://yankiates.itch.io/)**
 - ✔ Play the favorite game I made: **[Prefiko](https://yankiates.itch.io/prefiko)**
 - 🔥 See the best website I made: **[Çekmeköy Sınav Haber](https://yankiates.github.io/sinavhaber/)**
 
