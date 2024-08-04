@@ -8,9 +8,9 @@
   
 - 🎮 See and play my all games: **https://yankiates.itch.io/**
 - ✔ Play the favorite game I made: **https://yankiates.itch.io/prefiko**
-- 🔥 See the best website I made: **[Çekemköy Sınav Haber]** (https://yankiates.github.io/sinavhaber/)
+- 🔥 See the best website I made: [(https://yankiates.github.io/sinavhaber/)](https://yankiates.github.io/sinavhaber/)
 
-- 📫 How to reach me **derinyankiates88@gmail.com**
+- 📫 How to reach me **yanki.ates08@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
