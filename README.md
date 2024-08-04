@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Unity Game Engine and C#**
   
 - 🎮 See and play my all games: **https://yankiates.itch.io/**
-- ✔ Play the favorite game I made: **https://yankiates.itch.io/prefiko**
+- ✔ Play the favorite game I made: **[Prefiko](https://yankiates.itch.io/prefiko)**
 - 🔥 See the best website I made: **[Çekmeköy Sınav Haber](https://yankiates.github.io/sinavhaber/)**
 
 - 📫 How to reach me **yanki.ates08@gmail.com**
