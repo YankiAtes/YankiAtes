@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yankiates&label=Profile%20views&color=0e75b6&style=flat" alt="yankiates" /> </p>
 
 - 🔭 I’m currently working on: **[Builder Defender Game](https://github.com/YankiAtes/BuilderDefenderGame)** 
-- 🌱 I’m currently learning **Unity Game Engine and C#**
+//- 🌱 I’m currently learning **Unity Game Engine and C#**
   
 - 🎮 See and play my all games: **[My Itch.io Page](https://yankiates.itch.io/)**
 - ✔ Play the favorite game I made: **[Prefiko](https://yankiates.itch.io/prefiko)**
