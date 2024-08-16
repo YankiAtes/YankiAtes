@@ -5,7 +5,7 @@
 
 
 
-- 📚🛠️  Currently learning **Svelte**
+- 📚🛠️  Currently learning: **Svelte**
 - 🎮 See and play my all games: **[My Itch.io Page](https://yankiates.itch.io/)**
 - ✔ Play the favorite game I made: **[Prefiko](https://yankiates.itch.io/prefiko)**
 - 🔥 See the best website I made: **[Çekmeköy Sınav Haber](https://yankiates.github.io/sinavhaber/)**
